@@ -1,0 +1,28 @@
+Berikut merupakan penjelasan terkait kode program yang saya modifikasi:
+
+1.	Fungsi main: 
+Pada kode pertama, fungsi main tidak memiliki tipe pengembalian yang ditentukan. 
+Dalam kode terakhir, saya mengubahnya menjadi int main(), yang merupakan cara yang lebih standar dan profesional untuk mendeklarasikan fungsi main.
+
+2.	Deklarasi Variabel: 
+Dalam kode terakhir, saya menambahkan beberapa variabel baru seperti totalMakanan, totalMinuman, totalSayur, dan totalHarga untuk menyimpan total porsi makanan, minuman, dan sayur serta total harga pesanan. 
+Saya juga menambahkan array makanan, minuman, dan sayur untuk menyimpan detail pesanan.
+
+3.	Penghapusan system (“cls”) dan system (“pause”): 
+Fungsi system("cls") dan system("pause") adalah fungsi khusus sistem operasi dan tidak portabel. Oleh karena itu, saya menghapusnya dari kode yang diperbaiki.
+
+4.	Penambahan Menu: 
+Dalam kode terakhir, saya menambahkan lebih banyak pilihan ke dalam menu makanan, minuman, dan sayur. Saya juga menambahkan harga untuk setiap item.
+
+5.	Penanganan Input Pengguna: 
+Dalam kode terakhir, saya menambahkan penanganan input pengguna untuk membaca jumlah porsi atau gelas dan menambahkannya ke total porsi dan total harga. 
+Saya juga menyimpan detail pesanan ke dalam array makanan, minuman, dan sayur.
+
+6.	Penambahan Pesan Terima Kasih: 
+Dalam kode terakhir, saya menambahkan pesan terima kasih setelah pengguna selesai memilih dari satu menu.
+
+7.	Penambahan Nota Pesanan: 
+Dalam kode terakhir, saya menambahkan nota pesanan yang mencakup detail makanan, minuman, dan sayur yang telah dipesan, total porsi makanan, total gelas minuman, total porsi sayur, dan total harga.
+
+8.	Penambahan Default Case: 
+Saya menambahkan default case dalam switch statement untuk menangani situasi ketika pengguna memasukkan pilihan yang tidak valid.
